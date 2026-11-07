@@ -5,7 +5,6 @@
 ![Angular 22](https://img.shields.io/badge/Angular-22-DD0031?logo=angular&logoColor=white)
 ![Node.js 26 LTS](https://img.shields.io/badge/Node.js-26%20LTS-5FA04E?logo=nodedotjs&logoColor=white)
 ![Firebase and Supabase](https://img.shields.io/badge/BaaS-Firebase%20%7C%20Supabase-FFCA28?logo=firebase&logoColor=white)
-![Checked November 2026](https://img.shields.io/badge/Checked-Nov%202026-2ea44f)
 [![Last updated](https://img.shields.io/github/last-commit/ImmuneMoon/Full-Stack-Web-Development-and-Stacks?label=updated)](https://github.com/ImmuneMoon/Full-Stack-Web-Development-and-Stacks/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
 
