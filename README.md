@@ -12,17 +12,15 @@
 **📄 [Download the PDF](Full-Stack-Web-Development-and-Stacks.pdf)**
 
 ## 📖 Overview
-**Full-Stack Web Development and Stacks** explains what it means to build both the front end and the back end of a web app, and how to choose the set of tools, or **stack**, to do it with. It started as notes written in 2022 and 2023, and has been updated for November 2026. It covers:
+**Full-Stack Web Development and Stacks** explains what it means to build both the front end and the back end of a web app, and how to choose the set of tools, or **stack**, to do it with. It covers:
 - two routes in: front end then back end, or Harvard's free CS50 Web course;
 - the stacks people actually talk about, presented honestly as of 2026: MEAN and MERN, the T3 stack, Next.js on its own, and backend-as-a-service platforms such as Firebase and Supabase, with a comparison table;
 - web performance across the whole stack: Core Web Vitals and caching;
 - capstone project ideas to finish with.
 
-Every version and status was checked against official sources in November 2026. A Sources section links to each one.
-
 ## ⚠️ Important Notes
 * **No stack is "the best".** Each one is a set of trade-offs. The skills underneath (HTTP, databases, sign-in, deployment) carry over, so the first stack you learn matters less than finishing projects with it.
-* **Older tutorials still teach the ideas, not always the current code.** The videos kept here are from 2023 or earlier. Follow them for the concepts, and check each project's docs for today's syntax.
+* **Older tutorials still teach the ideas, not always the current code.** The videos here are from 2023 or earlier. Follow them for the concepts, and check each project's docs for today's syntax.
 * **Academind's free MEAN video covers only the Angular half.** It's an excerpt from a paid course and stops before Express and MongoDB (Section 4).
 * **The T3 stack's starter has slowed down.** Its last release was in November 2025, and it still sets up Next.js 15, not 16 (Section 5).
 * **Backend-as-a-service can cost money as you grow.** Firebase App Hosting needs the pay-as-you-go Blaze plan. Set a budget alert on any platform that bills by use.
@@ -42,8 +40,6 @@ This guide works alongside:
 ---
 
 <!-- guide:start -->
-
-*Versions and statuses checked in November 2026. They change, so confirm them on each project's site.*
 
 ## Contents
 
@@ -395,8 +391,6 @@ Once you have a capstone or two, it's time for step 5: a portfolio, and the job 
 
 ## 12. Sources
 
-Checked against these pages in November 2026.
-
 **Courses and roadmaps**
 - [CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/) and [CS50W certificate](https://cs50.harvard.edu/web/certificate/)
 - [edX: Computer Science for Web Programming Professional Certificate](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
@@ -424,7 +418,7 @@ Checked against these pages in November 2026.
 - [Chrome DevTools: Performance panel](https://developer.chrome.com/docs/devtools/performance/overview) and [Support for the Web Vitals extension has ended](https://developer.chrome.com/blog/web-vitals-extension-merged)
 - [MDN: HTTP caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching)
 
-**Videos from the original notes** (each video's content checked in November 2026)
+**Videos**
 - Fireship, [Fullstack Development Iceberg](https://youtube.com/shorts/JMWNYfPIF2U)
 - Academind, [Angular - Node - MongoDB & Express (MEAN) Tutorial for Beginners](https://youtu.be/1tRLveSyNz8)
 - Theo, [T3 Stack Tutorial - FROM 0 TO PROD FOR $0 (Next.js, tRPC, TypeScript...)](https://www.youtube.com/watch?v=YkOSUVzOAA4)
